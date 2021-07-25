@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Özkan
 - 👀 I’m interested in Web Technologies, Data Mining and Machine Learning
-- 🌱 I’m currently learning Javascript and its framework React and Machine Learning algorithms.
+- 🌱 I’m currently learning Javascript and its library React and Machine Learning algorithms.
+
+
 
 
 <!---
